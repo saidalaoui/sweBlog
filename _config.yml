@@ -3,7 +3,7 @@
 #
 
 # Name of your site (displayed in the header)
-name: "CS371p Fall 2016: Abderrahman Said-Alaoui"
+name: "CS373f Fall 2016: Abderrahman Said-Alaoui"
 
 # Short bio or description (displayed in the header)
 description: "A weekly SWE blog"
@@ -21,9 +21,9 @@ footer-links:
   email: a.saidalaoui@gmail.com
   facebook:
   flickr:
-  github: 
+  github: saidalaoui
   instagram:
-  linkedin:
+  linkedin: asaidalaoui
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: 
