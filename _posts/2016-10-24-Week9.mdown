@@ -1,0 +1,18 @@
+---
+layout: post
+title: Week 9
+---
+
+### What did I do this past week?
+
+Again this week I did not have the opportunity to help the team much with the project. It was a pretty heavily loaded couple of days, and I hope that I will be able to be of more substancial help for the remaining two projects. With that being said, I did contribute with a small portion when it came to setting up a couple of pages and getting some of the code started. I am just glade that my team mates were able to work through this project unafected by my relative dead weight. This should be resolved for the next couple of weeks.
+
+Last week was a pretty big week for me personally: I am done with interviewing. That is it! Although I received multiple other interview invitations last week alone, for the sake of keeping my sanity and preserving my well being I had to decline all of them. I missed a total of 8 days of classes just this past month alone all due to onsite interviews, and put on the spot by professor Downing twice when he called my name and couldn't answer his question as I had trouble staying awake during class.
+
+### What's in my way?
+
+I have to be more pro-active in the next couple of projects. While I have become a bit more familiar with some of the aspects of web development and design, there is still a lot that I am not comfortable with. Working with data bases, Restful apis and shaping the web page to look the way we may want it to look. I am assuming for the next part of the project will involve making the website pull the data directly from the RESTful apis. I make sure to do my part in providing a more substancial contribution when it comes to the back end, and get more familliar with anglar just so that I can be literate when comes to the front end web development.
+
+### What will I do next week? 
+
+Get started with the project, and try to review the materials that I missed due to my abscences.
